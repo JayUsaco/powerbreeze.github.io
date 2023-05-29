@@ -1,0 +1,47 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply minimalistic styling to the header */
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+/* Style the main content sections */
+section {
+    padding: 40px 20px;
+}
+
+/* Style the hero section */
+.hero {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+/* Style the features section */
+.features {
+    background-color: #f8f8f8;
+}
+
+/* Style the testimonials section */
+.testimonials {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+/* Style the newsletter section */
+.newsletter {
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+/* Apply minimalistic styling to the footer */
+footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
